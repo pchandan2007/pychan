@@ -1,0 +1,6 @@
+{
+  "name": "PyQuest - Gamified Python Academy",
+  "description": "Learn Python the fun way with interactive lessons, 24+ coding challenges, browser-based Python execution, and game progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
